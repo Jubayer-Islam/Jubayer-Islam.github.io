@@ -2,7 +2,7 @@
 
  ▌║█║▌│║▌│║▌║▌█║Educational Qualifications ▌│║▌║▌│║║▌█║▌║█
 
-[ 10.2020 – Aktuell ] B.Sc. in Computer Engineering ISE - Software Engineering
+[ 10.2020 – Present ] B.Sc. in Computer Engineering ISE - Software Engineering
 Universität Duisburg-Essen https://www.uni-due.de/
 
 [ 05.2018 – 08.2019 ] B.Sc. in Computer Science and Engineering
